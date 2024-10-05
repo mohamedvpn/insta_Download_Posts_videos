@@ -6,5 +6,5 @@
     "Deyaa":"",
     "Saieed":"",
     "نور الدين","",
-    "Ahmed Khaled":"",
+    "Ahmed-Khaled":"",
 }
