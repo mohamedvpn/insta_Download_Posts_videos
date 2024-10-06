@@ -8,5 +8,6 @@
     "Ahmed-Khaled":"1",
     "Fares-K-Bakr":"1",
     "Tarek-Mohamed":"1",
-    "نور الدين": ""
+    "نور الدين": "",
+    "Kareem": "",
 }
